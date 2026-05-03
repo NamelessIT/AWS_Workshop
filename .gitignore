@@ -15,3 +15,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Hugo binary (use the one installed by GitHub Actions for builds)
+hugo.exe
+hugo
